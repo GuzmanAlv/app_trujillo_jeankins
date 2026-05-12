@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "355927134773",
+    "project_id": "trujillocultural-67997",
+    "storage_bucket": "trujillocultural-67997.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:355927134773:android:f9858b58fdf80eaea4d77c",
+        "android_client_info": {
+          "package_name": "com.example.app_trujillo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOGoT0wQg_XNYTrHACuFmiCak3Rgqf3ig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
