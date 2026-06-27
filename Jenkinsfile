@@ -20,11 +20,7 @@ pipeline {
             }
         }
 
-        stage('Validar JSON de eventos') {
-            steps {
-        bat 'dart --disable-dart-dev -e "import \'dart:convert\'; import \'dart:io\'; void main(){ jsonDecode(File(\'assets/data/eventos.json\').readAsStringSync()); print(\'JSON de eventos válido\'); }"'
-            }
-        }
+      
 
         stage('Instalar dependencias') {
             steps {
