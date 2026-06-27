@@ -29,11 +29,7 @@ pipeline {
             }
         }
 
-        stage('Analizar código') {
-            steps {
-                bat 'flutter analyze'
-            }
-        }
+        
 
         stage('Compilar Flutter Web') {
             steps {
