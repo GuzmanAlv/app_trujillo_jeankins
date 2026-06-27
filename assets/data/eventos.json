@@ -58,5 +58,12 @@
     "esGratuito": true,
     "precio": 0.0,
     "tipo": "municipal"
-  }
+  },
+  {
+  "id": 7,
+  "titulo": "Festival de Primavera",
+  "fecha": "15/10/2026",
+  "lugar": "Plaza de Armas",
+  "descripcion": "Evento cultural con danzas y música."
+}
 ]
