@@ -22,7 +22,7 @@ pipeline {
 
         stage('Validar JSON de eventos') {
             steps {
-                bat 'py scripts\\validate_eventos_json.py'
+        bat 'dart --disable-dart-dev -e "import \'dart:convert\'; import \'dart:io\'; void main(){ jsonDecode(File(\'assets/data/eventos.json\').readAsStringSync()); print(\'JSON de eventos válido\'); }"'
             }
         }
 
