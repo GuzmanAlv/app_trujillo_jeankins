@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "titulo": "Concurso Nacional de Marinera",
+    "lugar": "Coliseo Gran Chimú",
+    "fecha": "Enero 2026",
+    "categoria": "danza",
+    "esGratuito": false,
+    "precio": 25.0,
+    "tipo": "tradicional"
+  },
+  {
+    "id": 2,
+    "titulo": "Festival Internacional de la Primavera",
+    "lugar": "Toda la ciudad",
+    "fecha": "Septiembre 2026",
+    "categoria": "cultural",
+    "esGratuito": true,
+    "precio": 0.0,
+    "tipo": "tradicional"
+  },
+  {
+    "id": 3,
+    "titulo": "Trujillo: Juventud y Raíces",
+    "lugar": "Coliseo Inca",
+    "fecha": "13 Feb 2026",
+    "categoria": "cultural",
+    "esGratuito": true,
+    "precio": 0.0,
+    "tipo": "municipal"
+  },
+  {
+    "id": 4,
+    "titulo": "Festival Internacional de Danzas Folklóricas",
+    "lugar": "Teatro San Juan",
+    "fecha": "10 Oct 2026",
+    "categoria": "danza",
+    "esGratuito": false,
+    "precio": 25.0,
+    "tipo": "especial"
+  },
+  {
+    "id": 5,
+    "titulo": "Temporada Cultural CEPROCUT 2026",
+    "lugar": "Teatros y centros culturales",
+    "fecha": "Todo 2026",
+    "categoria": "teatro",
+    "esGratuito": true,
+    "precio": 0.0,
+    "tipo": "artistico"
+  },
+  {
+    "id": 6,
+    "titulo": "Aniversario Independencia de Trujillo",
+    "lugar": "Plaza de Armas",
+    "fecha": "29 Dic 2026",
+    "categoria": "cultural",
+    "esGratuito": true,
+    "precio": 0.0,
+    "tipo": "municipal"
+  }
+]
