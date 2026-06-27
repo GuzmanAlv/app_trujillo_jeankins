@@ -36,12 +36,23 @@ pipeline {
                 bat 'flutter build web --release'
             }
         }
+        stage('Publicar en GitHub Pages') {
+    steps {
+        bat '''
+        cd build\\web
+        git init
+        git config user.name "Jenkins"
+        git config user.email "jenkins@local.com"
+        git add .
+        git commit -m "Deploy automático desde Jenkins"
+        git branch -M gh-pages
+        git remote add origin https://github.com/GuzmanAlv/app_trujillo_jeankins.git
+        git push -f origin gh-pages
+        '''
+    }
+}
 
-        stage('Publicar artefacto') {
-            steps {
-                archiveArtifacts artifacts: 'build/web/**', fingerprint: true
-            }
-        }
+    
     }
 
     post {
