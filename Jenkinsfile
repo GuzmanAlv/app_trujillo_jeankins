@@ -22,7 +22,7 @@ pipeline {
 
         stage('Validar JSON de eventos') {
             steps {
-                bat 'python scripts\\validate_eventos_json.py'
+                bat 'py scripts\\validate_eventos_json.py'
             }
         }
 
