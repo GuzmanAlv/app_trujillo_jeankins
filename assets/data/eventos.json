@@ -65,5 +65,12 @@
   "fecha": "15/10/2026",
   "lugar": "Plaza de Armas",
   "descripcion": "Evento cultural con danzas y música."
+},
+{
+  "id": 8,
+  "titulo": "Festival de Prueba Jenkins",
+  "fecha": "2026-06-28",
+  "lugar": "Plaza de Armas de Trujillo",
+  "descripcion": "Evento agregado automáticamente mediante Jenkins"
 }
 ]
