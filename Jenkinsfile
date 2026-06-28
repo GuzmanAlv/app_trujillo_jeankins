@@ -36,8 +36,14 @@ pipeline {
                 bat 'flutter build web --release'
             }
         }
+
         stage('Publicar en GitHub Pages') {
+
     steps {
+        withCredentials([
+    string(credentialsId: 'github-token',
+           variable: 'GITHUB_TOKEN')
+]) {
         bat '''
         cd build\\web
         git init
@@ -46,7 +52,7 @@ pipeline {
         git add .
         git commit -m "Deploy automático desde Jenkins"
         git branch -M gh-pages
-        git remote add origin https://github.com/GuzmanAlv/app_trujillo_jeankins.git
+        git remote add origin https://%GITHUB_TOKEN%@github.com/GuzmanAlv/app_trujillo_jeankins.git
         git push -f origin gh-pages
         '''
     }
