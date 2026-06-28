@@ -86,5 +86,12 @@
   "fecha": "2026-06-28",
   "lugar": "Plaza de Armas de Trujillo",
   "descripcion": "Evento agregado automáticamente mediante Jenkins"
+},
+{
+  "id": 11,
+  "titulo": "Festival de Prueba Jenkins Con triggers 4",
+  "fecha": "2026-06-28",
+  "lugar": "Plaza de Armas de Trujillo",
+  "descripcion": "Evento agregado automáticamente mediante Jenkins"
 }
 ]
