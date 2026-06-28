@@ -33,7 +33,7 @@ pipeline {
 
         stage('Compilar Flutter Web') {
             steps {
-                bat 'flutter build web --release'
+                bat 'flutter build web --release --base-href "/app_trujillo_jeankins/"'
             }
         }
 
