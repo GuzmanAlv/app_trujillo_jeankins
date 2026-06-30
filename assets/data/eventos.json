@@ -93,5 +93,13 @@
   "fecha": "2026-06-28",
   "lugar": "Plaza de Armas de Trujillo",
   "descripcion": "Evento agregado automáticamente mediante Jenkins"
-}
+},
+    {
+      "id": 12,
+      "titulo": "Evento de Prueba Sistema",
+      "fecha": "2026-07-05",
+      "lugar": "Auditorio UTP Trujillo",
+      "descripcion": "Evento de prueba para verificar el registro y funcionamiento del sistema."
+    }
+
 ]
