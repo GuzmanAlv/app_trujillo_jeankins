@@ -1,0 +1,132 @@
+[
+  {
+    "id": 1,
+    "titulo": "Concurso Nacional de Marinera",
+    "lugar": "Coliseo Gran Chimú",
+    "fecha": "Enero 2027",
+    "categoria": "danza",
+    "esGratuito": false,
+    "precio": 25.0,
+    "tipo": "tradicional"
+  },
+  {
+    "id": 2,
+    "titulo": "Festival Internacional de la Primavera",
+    "lugar": "Toda la ciudad",
+    "fecha": "Septiembre 2026",
+    "categoria": "cultural",
+    "esGratuito": true,
+    "precio": 0.0,
+    "tipo": "tradicional"
+  },
+  {
+    "id": 3,
+    "titulo": "Trujillo: Juventud y Raíces",
+    "lugar": "Coliseo Inca",
+    "fecha": "13 Feb 2027",
+    "categoria": "cultural",
+    "esGratuito": true,
+    "precio": 0.0,
+    "tipo": "municipal"
+  },
+  {
+    "id": 4,
+    "titulo": "Festival Internacional de Danzas Folklóricas",
+    "lugar": "Teatro San Juan",
+    "fecha": "10 Oct 2026",
+    "categoria": "danza",
+    "esGratuito": false,
+    "precio": 20.0,
+    "tipo": "especial"
+  },
+  {
+    "id": 5,
+    "titulo": "Temporada Cultural CEPROCUT 2026",
+    "lugar": "Teatros y centros culturales",
+    "fecha": "Todo 2026",
+    "categoria": "teatro",
+    "esGratuito": true,
+    "precio": 0.0,
+    "tipo": "artistico"
+  },
+  {
+    "id": 6,
+    "titulo": "Aniversario de la Independencia de Trujillo",
+    "lugar": "Plaza de Armas",
+    "fecha": "29 Dic 2026",
+    "categoria": "cultural",
+    "esGratuito": true,
+    "precio": 0.0,
+    "tipo": "municipal"
+  },
+  {
+    "id": 7,
+    "titulo": "Corso de la Amistad",
+    "lugar": "Avenida España",
+    "fecha": "26 Sep 2026",
+    "categoria": "cultural",
+    "esGratuito": true,
+    "precio": 0.0,
+    "tipo": "tradicional"
+  },
+  {
+    "id": 8,
+    "titulo": "Feria del Libro de Trujillo",
+    "lugar": "Plazuela El Recreo",
+    "fecha": "15 Ago 2026",
+    "categoria": "cultural",
+    "esGratuito": true,
+    "precio": 0.0,
+    "tipo": "municipal"
+  },
+  {
+    "id": 9,
+    "titulo": "Festival Gastronómico Sabores del Norte",
+    "lugar": "Plaza Mayor de Trujillo",
+    "fecha": "20 Ago 2026",
+    "categoria": "gastronomia",
+    "esGratuito": false,
+    "precio": 15.0,
+    "tipo": "especial"
+  },
+  {
+    "id": 10,
+    "titulo": "Concierto Sinfónico de Verano",
+    "lugar": "Teatro Municipal de Trujillo",
+    "fecha": "05 Ene 2027",
+    "categoria": "musica",
+    "esGratuito": false,
+    "precio": 30.0,
+    "tipo": "especial"
+  },
+  {
+    "id": 11,
+    "titulo": "Festival de Teatro Callejero",
+    "lugar": "Centro Histórico de Trujillo",
+    "fecha": "12 Jul 2026",
+    "categoria": "teatro",
+    "esGratuito": true,
+    "precio": 0.0,
+    "tipo": "artistico"
+  },
+  {
+    "id": 12,
+    "titulo": "Bienal de Arte Contemporáneo",
+    "lugar": "Casa de la Emancipación",
+    "fecha": "10 Nov 2026",
+    "categoria": "arte",
+    "esGratuito": true,
+    "precio": 0.0,
+    "tipo": "cultural"
+  },
+  {
+    "id": 13,
+    "titulo": "Festival de Cine de Trujillo",
+    "lugar": "Cineclub Universitario UNT",
+    "fecha": "22 Nov 2026",
+    "categoria": "cine",
+    "esGratuito": false,
+    "precio": 10.0,
+    "tipo": "especial"
+  }
+]
