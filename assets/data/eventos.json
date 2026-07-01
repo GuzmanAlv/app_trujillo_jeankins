@@ -3,7 +3,7 @@
     "id": 1,
     "titulo": "Concurso Nacional de Marinera",
     "lugar": "Coliseo Gran Chimú",
-    "fecha": "Enero 2026",
+    "fecha": "Enero 2027",
     "categoria": "danza",
     "esGratuito": false,
     "precio": 25.0,
@@ -23,7 +23,7 @@
     "id": 3,
     "titulo": "Trujillo: Juventud y Raíces",
     "lugar": "Coliseo Inca",
-    "fecha": "13 Feb 2026",
+    "fecha": "13 Feb 2027",
     "categoria": "cultural",
     "esGratuito": true,
     "precio": 0.0,
@@ -36,7 +36,7 @@
     "fecha": "10 Oct 2026",
     "categoria": "danza",
     "esGratuito": false,
-    "precio": 25.0,
+    "precio": 20.0,
     "tipo": "especial"
   },
   {
@@ -51,7 +51,7 @@
   },
   {
     "id": 6,
-    "titulo": "Aniversario Independencia de Trujillo",
+    "titulo": "Aniversario de la Independencia de Trujillo",
     "lugar": "Plaza de Armas",
     "fecha": "29 Dic 2026",
     "categoria": "cultural",
@@ -60,52 +60,73 @@
     "tipo": "municipal"
   },
   {
-  "id": 7,
-  "titulo": "Festival de Primavera",
-  "fecha": "15/10/2026",
-  "lugar": "Plaza de Armas",
-  "descripcion": "Evento cultural con danzas y música."
-},
-{
-  "id": 8,
-  "titulo": "Festival de Prueba Jenkins",
-  "fecha": "2026-06-28",
-  "lugar": "Plaza de Armas de Trujillo",
-  "descripcion": "Evento agregado automáticamente mediante Jenkins"
-},
-{
-  "id": 9,
-  "titulo": "Festival de Prueba Jenkins Con triggers",
-  "fecha": "2026-06-28",
-  "lugar": "Plaza de Armas de Trujillo",
-  "descripcion": "Evento agregado automáticamente mediante Jenkins"
-},
-{
-  "id": 10,
-  "titulo": "Festival de Prueba Jenkins Con triggers 3",
-  "fecha": "2026-06-28",
-  "lugar": "Plaza de Armas de Trujillo",
-  "descripcion": "Evento agregado automáticamente mediante Jenkins"
-},
-{
-  "id": 11,
-  "titulo": "Festival de Prueba Jenkins Con triggers 4",
-  "fecha": "2026-06-28",
-  "lugar": "Plaza de Armas de Trujillo",
-  "descripcion": "Evento agregado automáticamente mediante Jenkins"
-},
-{
-  "id": 12,
-  "titulo": "Festival de Prueba Jenkins Con triggers 5",
-  "fecha": "2026-06-28",
-  "lugar": "Plaza de Armas de Trujillo",
-  "descripcion": "Evento agregado automáticamente mediante Jenkins"
-},
-{
-  "id": 13,
-  "titulo": "Festival de Prueba Jenkins Con triggers 6",
-  "fecha": "2026-06-28",
-  "lugar": "Plaza de Armas de Trujillo",
-  "descripcion": "Evento agregado automáticamente mediante Jenkins"
-}
+    "id": 7,
+    "titulo": "Corso de la Amistad",
+    "lugar": "Avenida España",
+    "fecha": "26 Sep 2026",
+    "categoria": "cultural",
+    "esGratuito": true,
+    "precio": 0.0,
+    "tipo": "tradicional"
+  },
+  {
+    "id": 8,
+    "titulo": "Feria del Libro de Trujillo",
+    "lugar": "Plazuela El Recreo",
+    "fecha": "15 Ago 2026",
+    "categoria": "cultural",
+    "esGratuito": true,
+    "precio": 0.0,
+    "tipo": "municipal"
+  },
+  {
+    "id": 9,
+    "titulo": "Festival Gastronómico Sabores del Norte",
+    "lugar": "Plaza Mayor de Trujillo",
+    "fecha": "20 Ago 2026",
+    "categoria": "gastronomia",
+    "esGratuito": false,
+    "precio": 15.0,
+    "tipo": "especial"
+  },
+  {
+    "id": 10,
+    "titulo": "Concierto Sinfónico de Verano",
+    "lugar": "Teatro Municipal de Trujillo",
+    "fecha": "05 Ene 2027",
+    "categoria": "musica",
+    "esGratuito": false,
+    "precio": 30.0,
+    "tipo": "especial"
+  },
+  {
+    "id": 11,
+    "titulo": "Festival de Teatro Callejero",
+    "lugar": "Centro Histórico de Trujillo",
+    "fecha": "12 Jul 2026",
+    "categoria": "teatro",
+    "esGratuito": true,
+    "precio": 0.0,
+    "tipo": "artistico"
+  },
+  {
+    "id": 12,
+    "titulo": "Bienal de Arte Contemporáneo",
+    "lugar": "Casa de la Emancipación",
+    "fecha": "10 Nov 2026",
+    "categoria": "arte",
+    "esGratuito": true,
+    "precio": 0.0,
+    "tipo": "cultural"
+  },
+  {
+    "id": 13,
+    "titulo": "Festival de Cine de Trujillo",
+    "lugar": "Cineclub Universitario UNT",
+    "fecha": "22 Nov 2026",
+    "categoria": "cine",
+    "esGratuito": false,
+    "precio": 10.0,
+    "tipo": "especial"
+  }
 ]
