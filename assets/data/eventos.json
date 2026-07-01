@@ -107,5 +107,12 @@
   "fecha": "2026-06-28",
   "lugar": "Plaza de Armas de Trujillo",
   "descripcion": "Evento agregado automáticamente mediante Jenkins"
+},
+{
+  "id": 14,
+  "titulo": "Festival Promocional Rockys",
+  "fecha": "2050-08-12",
+  "lugar": "Plazuela del Recreo",
+  "descripcion": "Pollo a la Brasa con descuento del 90% para los asistentes al festival"
 }
 ]
