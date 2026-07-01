@@ -114,5 +114,12 @@
   "fecha": "2050-08-12",
   "lugar": "Plazuela del Recreo",
   "descripcion": "Pollo a la Brasa con descuento del 90% para los asistentes al festival"
+},
+{
+  "id": 14,
+  "titulo": "Festival Promocional Rockys 2",
+  "fecha": "2050-08-12",
+  "lugar": "Plazuela del Recreo",
+  "descripcion": "Pollo a la Brasa con descuento del 90% para los asistentes al festival"
 }
 ]
