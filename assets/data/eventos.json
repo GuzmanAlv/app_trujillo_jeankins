@@ -107,5 +107,12 @@
   "fecha": "2026-06-28",
   "lugar": "Plaza de Armas de Trujillo",
   "descripcion": "Evento agregado automáticamente mediante Jenkins"
-}
+},
+  {
+    "id": 14,
+    "titulo": "Fiesta de Primavera ",
+    "fecha": "2026-08-28",
+    "lugar": "Plaza de Armas de Trujillo",
+    "descripcion": "Evento agregado automáticamente mediante Jenkins"
+  }
 ]
