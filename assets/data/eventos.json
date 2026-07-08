@@ -128,5 +128,15 @@
     "esGratuito": false,
     "precio": 10.0,
     "tipo": "especial "
+  },
+  {
+    "id": 14,
+    "titulo": "Festival de Cine de Trujillo",
+    "lugar": "Cineclub Universitario UNT",
+    "fecha": "22 Nov 2026",
+    "categoria": "cine",
+    "esGratuito": false,
+    "precio": 10.0,
+    "tipo": "especial "
   }
 ]
